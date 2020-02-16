@@ -1,0 +1,8 @@
+torch
+torchvision
+tensorboard
+numpy
+scipy
+sklearn
+matplotlib
+pytorch-ignite
